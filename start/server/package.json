@@ -1,7 +1,7 @@
 {
-  "name": "fullstack-tutorial-server",
+  "name": "apollo-graphql-tutorial",
   "version": "1.0.0",
-  "description": "",
+  "description": "playing with apollo",
   "main": "src/index.js",
   "scripts": {
     "test": "jest",
@@ -17,7 +17,7 @@
     "apollo-server-testing": "2.2.0-alpha.2",
     "graphql": "^14.0.2",
     "isemail": "^3.1.3",
-    "nodemon": "^1.18.4",
+    "nodemon": "^1.18.9",
     "sequelize": "^4.39.0",
     "sqlite3": "^4.0.3"
   },
